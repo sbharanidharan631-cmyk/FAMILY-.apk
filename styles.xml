@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black and Gold Luxury Theme -->
+    <style name="Theme.FamilyMemories.BlackGold" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/gold_primary</item>
+        <item name="colorPrimaryVariant">@color/gold_dark</item>
+        <item name="colorOnPrimary">@color/obsidian_black</item>
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/gold_light</item>
+        <item name="colorOnSecondary">@color/obsidian_black</item>
+        <!-- Background and Surface -->
+        <item name="android:windowBackground">@color/obsidian_black</item>
+        <item name="colorSurface">@color/obsidian_card</item>
+        <item name="colorOnSurface">@color/text_white</item>
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/obsidian_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

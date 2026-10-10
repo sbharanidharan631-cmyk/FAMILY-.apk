@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Family Memories</string>
+    <string name="tagline">Personal &amp; Private Photo Organiser</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="no_photos">No memories added yet in this category.</string>
+    <string name="category_all">All Memories</string>
+    <string name="category_family">Family</string>
+    <string name="category_father">Father</string>
+    <string name="category_mother">Mother</string>
+    <string name="category_brother">Brother</string>
+    <string name="category_sister">Sister</string>
+    <string name="category_me">Me</string>
+    <string name="category_grandparents">Grandparents</string>
+    <string name="category_friends">Friends</string>
+</resources>
